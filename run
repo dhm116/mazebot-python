@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+PYTHONPATH=./ pipenv run python mazebot "$@"
